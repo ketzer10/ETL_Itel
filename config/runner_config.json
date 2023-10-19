@@ -1,0 +1,461 @@
+{
+    "-1": {
+        "script_name": "Database movers",
+        "script_description": "Moves data from PostgreSQL to SQL Server",
+        "script_path": "src.database_movers.dbmover"
+    },
+    "1": {
+        "script_name": "Anyone Home State Transactional Detail Downloader",
+        "script_description": "Downloads data from the state transactional detail bucket.",
+        "script_path": "src.anyone_home.state_transactional_detail"
+    },
+    "2": {
+        "script_name": "Forecast Downloader and Uploader",
+        "script_description": "Downloads live Excel Forecasts and uploads to database.",
+        "script_path": "src.live_excels.forecast_excel_downloader"
+    },
+    "3": {
+        "script_name": "Altice Productivity Report",
+        "script_description": "Downloads Altice productivity report for KGN, MBJ, SLU.",
+        "script_path": "src.altice.productivity_data"
+    },
+    "4": {
+        "script_name": "Kroger Productivity Report",
+        "script_description": "Downloads Kroger productivity report.",
+        "script_path": "src.kroger.productivity_data"
+    },
+    "5": {
+        "script_name": "Actual Calls and Hours Downloader and Uploader",
+        "script_description": "Downloads live Excel Sheets that contain actual number of billable calls and hours.",
+        "script_path": "src.live_excels.actual_calls_hours_excel_downloader"
+    },
+    "6":{
+        "script_name": "Global Training Calendar",
+        "script_description": "Downloads Global Trainig Calendar data from Sharpoint Data Science Hub site coming to SQL Server",
+        "script_path": "src.learning_development.global_training_calendar"
+    },
+    "7": {
+        "script_name": "Hilton Productivity Report",
+        "script_description": "Downloads Hilton productivity report.",
+        "script_path": "src.hilton.productivity_data"
+    },
+    "8": {
+        "script_name": "Hilton Team Alignments",
+        "script_description": "Downloads Hilton team alignments.",
+        "script_path": "src.hilton.team_alignments"
+    },
+    "9": {
+        "script_name": "Altice ATS EOD",
+        "script_description": "Downloads Altice ATS EOD reports.",
+        "script_path": "src.altice.ats_eod"
+    },   
+    "10": {
+        "script_name": "Walmart Productivity sixty minutes",
+        "script_description": "Downloads Walmart productivity for 60 minute intervals",
+        "script_path": "src.walmart.productivity_sixty_minute_interval"
+    },
+    "11": {
+        "script_name": "Kroger's Csat report",
+        "script_description": "Downloads CSAT ambassador report coming from client",
+        "script_path": "src.kroger.csat"
+    },
+    "12":{
+        "script_name": "Altice System Issue Hours",
+        "script_description": "Downloads live excel sheet for billable system issue hours",
+        "script_path": "src.altice.live_excels.billable_system_issues_hours"
+    },
+    "13":{
+        "script_name": "Altice Approved Overages",
+        "script_description": "Downloads live excel sheet for approved overages",
+        "script_path": "src.altice.live_excels.approved_overages"
+    },   
+     "14": {
+        "script_name": "Kroger's Quality report and Team Alignments",
+        "script_description": "Downloads quality data coming from uptivity and QA's team alignments",
+        "script_path": "src.kroger.quality"
+    },    
+    "15": {
+        "script_name": "Walmart Unavailable Time",
+        "script_description": "Downloads Walmart unavailable time per code",
+        "script_path": "src.walmart.unavailable_codes_time"
+    }, 
+    "16": {
+        "script_name": "Anyone Home Agent Call Time",
+        "script_description": "Downloads AH agent call time summary",
+        "script_path": "src.anyone_home.five9.agent_call_time"
+    },  
+    "17": {
+        "script_name": "Anyone Home Agent State",
+        "script_description": "Downloads Anyone Home Agent states and summarizes data",
+        "script_path": "src.anyone_home.five9.agent_state"
+    },
+    "18": {
+        "script_name": "Anyone Home Adherece Scraper",
+        "script_description": "Parses HTML file from the adherence report in Community",
+        "script_path": "src.anyone_home.community.adherence_scraper"
+    },
+    "19":{
+        "script_name": "Altice Login Logout",
+        "script_description": "Downloads an Excel file containing Login-Logout from the SharePoint",
+        "script_path": "src.altice.login-logout"
+    },  
+    "20":{
+        "script_name": "NRRC EOD",
+        "script_description": "Downloads an Excel file containing NRRC from the SharePoint",
+        "script_path": "src.altice.nrrc_eod"
+    },
+     "21":{ 
+        "script_name": "Altice NRRC EOD",
+        "script_description": "Downloads an Excel file containing Altice NRRC from the SharePoint",
+        "script_path": "src.altice.nrrc_eod"
+    },  
+    "22":{
+        "script_name": "Finance live excel downloader and uploader",
+        "script_description": "Downloads finance Excel sharepoint files and uploads to database",
+        "script_path": "src.live_excels.finance_excel_sheets"
+    },  
+    "23":{
+        "script_name": "Altice committed hours uploader",
+        "script_description": "Uploads altice committed hours to the database",
+        "script_path": "src.altice.live_excels.commits_accepts"
+    },
+    "24": {
+        "script_name": "The General Last day Report",
+        "script_description": "Downloads the general productivity and quality data from production report.",
+        "script_path": "src.the_general.prod_qa_data"
+    },    
+    "25": {
+        "script_name": "The General sales data",
+        "script_description": "Downloads the general sales data from production report.",
+        "script_path": "src.the_general.sales_data"
+    },
+    "26":{
+        "script_name": "Google Sheet ETL",
+        "script_description": "Downloads a Google Sheet file from Drive (Dev account) and uploads to the database.",
+        "script_path": "src.live_google_sheets.google_sheets_etl_orchestrator"
+    },
+    "27":{
+        "script_name": "HRM to Data Science database mover",
+        "script_description": "Moves data between HRM UHRDB database into data science team database.",
+        "script_path": "src.database_movers.hrm.hrm_to_sql_server"
+    },
+    "28":{
+        "script_name": "Anyone Home Central Scraper and Uploader",
+        "script_description": "Scrapes data from Anyone Home central website and uploads to database.",
+        "script_path": "src.anyone_home.central.central_scraper_downloader"
+    },
+    "29":{
+        "script_name": "HRMaster GCP to Data Science database mover",
+        "script_description": "Moves data between HRMaster GCP database into data science team database.",
+        "script_path": "src.database_movers.hrmaster.hrmaster_to_sql_server"
+    },    
+    "30": {
+        "script_name": "Walmart Global CSAT",
+        "script_description": "Downloads Walmart CSAT data from Sharpoint site coming from Stella.",
+        "script_path": "src.walmart.glb_csat"
+    },
+    "31":{
+        "script_name": "Liveperson GCP to Data Science database mover",
+        "script_description": "Moves data for Liveperson from PostgreSQL to SQL Server",
+        "script_path": "src.liveperson.database_mover.emerge_to_itel_datasi"
+    },
+    "32":{
+        "script_name": "Office Depot GCP to Data Science database mover",
+        "script_description": "Moves data for Office Depot from PostgreSQL to SQL Server",
+        "script_path": "src.office_depot.database_mover.emerge_to_itel_datasi"
+    },
+    "33":{
+        "script_name": "Coadvantage data buckets downloader and uploaders",
+        "script_description": "Takes raw data from coadvantage and uploads to SQL Server",
+        "script_path": "src.coadvantage.data_buckets.data_buckets"
+    },
+    "34":{
+        "script_name": "Honduras Payroll Files",
+        "script_description": "Takes payroll raw data from Excel sheets and uploads to SQL Server",
+        "script_path": "src.payroll.honduras.payroll_excels"
+    },
+    "35": {
+        "script_name": "Walmart Call Time Data Thirty minutes",
+        "script_description": "Downloads Walmart Call Time for 30 minute intervals",
+        "script_path": "src.walmart.call_time_data"
+    },
+    "36": {
+        "script_name": "Walmart Contacts Data Thirty minutes",
+        "script_description": "Downloads Walmart Contact Data for 30 minute intervals",
+        "script_path": "src.walmart.contacts_data"
+    },
+    "37":{
+        "script_name": "Walmark Handlilng Compliance",
+        "script_description": "...",
+        "script_path": "src.walmart.handled_compliance"
+    },
+    "38": {
+        "script_name": "HRMaster GCP to Data Science database mover",
+        "script_description": "Moves data between HRMaster GCP database into data science team database.",
+        "script_path": "src.database_movers.hrmaster.glb_external_qa_to_sql_server"
+    },
+    "39": {
+        "script_name": "Walmart Short Contacts",
+        "script_description": "Downloads Walmart Short Contacts",
+        "script_path": "src.walmart.short_contacts"
+    },
+    "40":{
+        "script_name": "Environmental Safety Excel File uploader",
+        "script_description": "Uploads excel sheets from sharepoint and uploads them into a database",
+        "script_path": "src.health_safety.live_excels"
+    },
+    "41":{
+        "script_name": "Forms Customers Experience",
+        "script_description": "Upload excel sheets from sharepoint for to get insights customer satisfaction",
+        "script_path": "src.clients.live_excels"
+    },
+    "42":{
+        "script_name": "LP LiveEngage",
+        "script_description": "Upload reports from LiveEngage",
+        "script_path": "src.liveperson.mbj_liveengage"
+    },
+    "43":{
+        "script_name": "Global TDS Sales Productivity",
+        "script_description": "Upload productivity data for TDS Sales Productivity",
+        "script_path": "src.tds.global_tds_sales_productivity"
+    },
+    "44":{
+        "script_name": "Ancestry KGN Productivity",
+        "script_description": "Script for upload productivity data for Ancestry",
+        "script_path": "src.ancestry.kgn_productivity"
+    },
+    "45":{
+        "script_name": "Global TDS Fields Services Productivity",
+        "script_description": "Upload productivity data for TDS Fields Services Productivity",
+        "script_path": "src.tds.live_excel_global_tds_fields_services_productivity"
+    },
+    "46":{
+        "script_name": "Global TDS Financial Services Productivity",
+        "script_description": "Upload productivity data for TDS Financial Services Productivity",
+        "script_path": "src.tds.live_excel_global_tds_financial_services_productivity"
+    },
+    "47":{
+        "script_name": "Global TDS Repair Services Productivity",
+        "script_description": "Upload productivity data for TDS Repair Services Productivity",
+        "script_path": "src.tds.live_excel_global_tds_repair_productivity"
+    },
+    "48":{
+        "script_name": "Global Master Training",
+        "script_description": "Uploads Master Training",
+        "script_path": "src.learning_development.glb_master_training"
+    },
+    "49":{
+        "script_name": "Walmart Stella Internal QA",
+        "script_description": "Uploads Stella Internal QA",
+        "script_path": "src.walmart.stella_internal_qa"
+    },
+    "50":{
+        "script_name": "Walmart Alignments",
+        "script_description": "Uploads Walmart Alignments",
+        "script_path": "src.walmart.sap_alignments"
+    },
+    "51":{
+        "script_name": "capacity_planning live_excels",
+        "script_description": "Uploads Master Training",
+        "script_path": "src.capacity_planning.live_excels"
+    },
+    "52":{
+        "script_name": "Ancestry Productivity Data for KPI",
+        "script_description": "Upload Data of Produtivity and Quality for Ancestry into database (qa, csat)",
+        "script_path": "src.ancestry.kgn_productivity_kpi_dashboard"
+    },
+    "53":{
+        "script_name": "Louis Vuitton Data for KPI",
+        "script_description": "Upload Data of KPI for Louis Vuitton into database",
+        "script_path": "src.louis_vuitton.lv_kpi_dashboard"
+    },
+    "54":{
+        "script_name": "Anyone Home Adherence",
+        "script_description": "Upload Data of AH Adherence",
+        "script_path": "src.anyone_home.live_excels.adherence"
+    },
+    "55":{
+        "script_name": "Anyone Home Engagement",
+        "script_description": "Upload Data of AH Engagement",
+        "script_path": "src.anyone_home.central.engagement_bucket"
+    },
+    "56":{
+        "script_name": "Office Depot Report Manager",
+        "script_description": "Upload Office Depot Report Manager",
+        "script_path": "src.office_depot.od_report_manager"
+    },
+    "57":{
+        "script_name": "Walmart Exceptions",
+        "script_description": "Upload Walmart Exception Form Responses",
+        "script_path": "src.walmart.walmart_exceptions"
+    },
+    "58":{
+        "script_name": "Walmart Schedules",
+        "script_description": "Uploads schedules from schedule bucket",
+        "script_path": "src.walmart.sap_schedules"
+    },
+    "59":{
+        "script_name": "Global Learning & Development CX Daily Scores",
+        "script_description": "Upload Data of CSAT and Quality for BUs",
+        "script_path": "src.learning_development.glb_cx_daily_scores"
+    },
+    "60":
+    {
+        "script_name": "Scheduling",
+        "script_description": "Reads scheduling",
+        "script_path": "src.scheduling.glb_schedules"
+    },
+    "61":
+    {
+        "script_name": "TDS HRM Employee IDs",
+        "script_description": "maps from tds id to hrm id",
+        "script_path": "src.scheduling.live_excel_tds_hrm_employee_id"
+    },
+    "62":
+    {
+        "script_name": "Walmart Call Data",
+        "script_description": "Daily Call Data Walmart VCC",
+        "script_path": "src.walmart.call_data"
+    },
+    "63":{
+        "script_name": "Global WFM Crystal Ball",
+        "script_description": "Upload Data of Schedules xxx",
+        "script_path": "src.altice.glb_altice_wfm"
+    },
+    "64":{
+        "script_name": "TDS Agent Status",
+        "script_description": "Uploads ACD data for TDS. Report is Central Time.",
+        "script_path": "src.tds.global_tds_agent_status"        
+    },
+    "65":{
+        "script_name": "LP LiveEngage",
+        "script_description": "Upload reports from LiveEngage",
+        "script_path": "src.liveperson.geo_liveengage"
+    },
+    "66":{
+        "script_name": "tds_detailed_time_record",
+        "script_description": "Capture data recorded in the Field Serv. Hours Report",
+        "script_path": "src.tds.mbj_field_services_detailed_time_record"
+    },
+    "67":{
+        "script_name": "/altice/glb_altice_commits_accepts",
+        "script_description": "Capture data Altice Commits Accepts",
+        "script_path": "src.altice.glb_altice_commits_accepts"
+    },
+    "68":{
+        "script_name": "/hrplus_sftp/hrplus_data_load",
+        "script_description": "Load HRPlus SFTP Exports to Azure",
+        "script_path": "src.hrplus_sftp.hrplus_data_load_v2"
+    },
+    "69":{
+        "script_name": "mia/mia_csat_results",
+        "script_description": "Capture MIA's CSAT data. Daily.",
+        "script_path": "src.mia.mia_csat_results"
+
+    },
+    "74":{
+        "script_name": "Alignment altice",
+        "script_description": "update alignment data into database",
+        "script_path": "src.altice.alignment_altice"
+    },
+    "75":{
+        "script_name": "Alignment geo Walmart",
+        "script_description": "update geo Walmart alignment data into database",
+        "script_path": "src.walmart.geo_alignments"
+    },
+    "76":{
+        "script_name": "Office Depot Report Manager QA",
+        "script_description": "Reads all folders from Office Depot QA CS",
+        "script_path": "src.office_depot.od_qa_customer_service"
+    },
+    "77":{
+        "script_name": "PTD generator",
+        "script_description": "This script is able to download PTD reports",
+        "script_path": "src.hrplus_sftp.PTD"
+    },
+    "78":{
+        "script_name": "Upload PTD files to SFTP server",
+        "script_description": "This script is able to upload excel File to SFTP server",
+        "script_path": "src.hrplus_sftp.upload_sftp"
+    },
+    "79":{
+        "script_name": "Download kronos report",
+        "script_description": "Navigate through entertime web platform and donwload the hours report from 30 days ago",
+        "script_path": "src.kronos.download_report"
+    },
+    "80":{
+        "script_name": "Office Depot Oracle BUI data",
+        "script_description": "Download and upload OD Oracle BUI data",
+        "script_path": "src.office_depot.od_oracle_bui_upload"
+    },
+    "81":{
+        "script_name": "ETL Talkdesk JPS",
+        "script_description": "Script to extract, transform and load JPS info from Talkdesk to itel_datasi",
+        "script_path": "src.jps.talkdesk_etl"
+    },
+    "82":{
+        "script_name": "Upload Altice WFM Roster",
+        "script_description": "Read and upload WFM Roster for Altice",
+        "script_path": "src.altice.wfm_roster_upload"
+    },
+    "83":{
+        "script_name": "Elaborate the JPS Calls management report",
+        "script_description": "Create and upload the JPS Calls management report excel file to the Sharepoint",
+        "script_path": "src.jps.calls_management_report"
+    },
+    "84":{
+        "script_name": "Elaborate the JPS Touchpoints report",
+        "script_description": "Create and upload the JPS Touchpoint report excel file to the Sharepoint",
+        "script_path": "src.jps.touchpoints_report_v2"
+    },
+    "85":{
+        "script_name": "Upload Walmart WFM Roster",
+        "script_description": "Read and upload WFM Roster for Walmart",
+        "script_path": "src.walmart.wm_wfm_roster_upload"
+    },
+    "86":{
+        "script_name": "Update the Employee table (apps)",
+        "script_description": "Update the employee_table from employees_app",
+        "script_path": "src.hrplus_sftp.update_employee_apps"
+    },
+    "87":{
+        "script_name": "Elaborate the JPS WebChat report",
+        "script_description": "Create and upload the JPS WebChat report excel file to the Sharepoint",
+        "script_path": "src.jps.webchat_report"
+    },
+    "88":{
+        "script_name": "Talkdesk data helper",
+        "script_description": "Upload Talkdesk data in partitions",
+        "script_path": "src.jps.talkdesk_data_helper_v2"
+    },
+    "89":{
+        "script_name": "Upload Quiq Login Data",
+        "script_description": "Filter Quiq Historical Report and upload the login hours",
+        "script_path": "src.office_depot.od_quiq_login_hours"
+    },
+    "90":{
+        "script_name": "Upload Job Mappings data",
+        "script_description": "Truncate the hrplus job mappings table with excel's info",
+        "script_path": "src.hrplus_sftp.upload_job_mappings"
+    },
+    "91":{
+        "script_name": "Upload Reason Mappings data",
+        "script_description": "Truncate the hrplus reason mappings table with excel's info",
+        "script_path": "src.hrplus_sftp.upload_reason_mappings"
+    },
+    "92":{
+        "script_name": "Upload Kroger WFM Roster",
+        "script_description": "Read and upload WFM Roster for Kroger",
+        "script_path": "src.kroger.wfm_roster_upload"
+    },
+    "93":{
+        "script_name": "ETL Jira",
+        "script_description": "Script to extract, transform and load Jira info from Atlassian Jira API to itel_datasi",
+        "script_path": "src.jira.api_etl"
+    },
+    "94":{
+        "script_name": "Honduras HRPlus Schedules",
+        "script_description": "Schedules upload for HRplus for Honduras",
+        "script_path": "src.scheduling.sap_hrplus_schedules"
+    }    
+}

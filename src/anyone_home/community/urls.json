@@ -1,0 +1,5 @@
+{
+    "login": "https://cloud89.csiworld.com/CommunityWeb/UI/Login/CommunityLogin.aspx",
+    "time_off_events": "https://cloud89.csiworld.com/CommunityWeb/UI/Planning/EventPlanning/PublishedEventReport.aspx?actid=1&fdate=&tdate=&o=&n=&r=&a=&l=&v=1&t=&p=1000000&d=Detail&ro=0&sid=&tzid=35&g=",
+    "adherence": "https://cloud89.csiworld.com/CommunityWeb/UI/Adherence/AgentHistoricalAdherenceBySupervisor.aspx?s=1&sp=&td=&pto=0&t=35&f=&e=&fd=&d=&st=1"
+}

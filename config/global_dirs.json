@@ -1,0 +1,10 @@
+{
+    "credentials_file": "secrets/credentials/credentials.json",
+    "keys_dir": "secrets/keys",
+    "runner_config_file": "config/runner_config.json",
+    "dshub_sharepoint_config": "config/dshub_sharepoint_config.json",
+    "database_configs": "config/database_configs.json",
+    "google_sheet_config": "config/google_sheet_config.json",
+    "google_sheet_config_py": "config.google_sheet_config",
+    "schedules_config_py": "src.scheduling.configs"
+}

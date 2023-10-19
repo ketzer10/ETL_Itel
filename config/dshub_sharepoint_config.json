@@ -1,0 +1,1448 @@
+{
+    "sharepoint_site": {
+        "site_url": "https://itelbposmartsolutions.sharepoint.com/sites/DataScienceHub/"
+    }, 
+
+    "files": {
+        "attrition_form_responses":{
+            "name": "attrition_form_responses",
+            "id": "8CBE798B-97FE-49F9-A279-DE7E16295C5F",
+            "rel_path": "site/Documents/Human Resources/attrition_form_responses.xlsx",
+            "url": "https://itelbposmartsolutions.sharepoint.com/:x:/r/sites/DataScienceHub/_layouts/15/Doc.aspx?sourcedoc=%7BEDA5D49B-5C08-4FB9-92E9-2FC9576C889C%7D&file=attrition_form_responses.xlsx&action=default&mobileredirect=true"
+
+        },
+        "walmart_forecasted_calls_hours":{
+            "name": "Walmart Calls and Hours Forecast",
+            "id": "866AA0AE-3A3F-4FD9-ACA3-421D862F3FC2"
+        },
+        "active_engage_forecasted_calls_hours":{
+            "name": "Active Engage Calls and Hours Forecast",
+            "id": "532B4E6F-C276-4BF3-8CEF-059DE18F7F94"
+        },
+        "altice_forecasted_calls_hours":{
+            "name": "Altice Hour and Calls Forecast",
+            "id": "C20E4E3D-BEA4-4967-927C-3A834D3F41A2"
+        },
+        "ancestry_forecasted_calls_hours":{
+            "name": "Ancestry Hour and Calls Forecast",
+            "id": "B99876FF-B9BC-491E-B92A-2D817BC3CFDC"
+        },
+        "anyone_home_forecasted_calls_hours":{
+            "name": "Anyone Home Hour and Calls Forecast",
+            "id": "E3F07DF7-FACB-4DB3-91A6-08628F554C12"
+        },
+        "bmot_forecasted_calls_hours":{
+            "name": "BMOT Hour and Calls Forecast",
+            "id": "0EC82540-855F-4A7F-A1C9-D3B03786B281"
+        },
+        "bradford_forecasted_calls_hours":{
+            "name": "Bradford Hour and Calls Forecast",
+            "id": "F845AB8B-D44C-4595-9840-BBF031409144"
+        },
+        "breville_forecasted_calls_hours":{
+            "name": "Breville Hour and Calls Forecast",
+            "id": "12F55F14-620E-4B8F-A09E-A31B1E7FED7F"
+        },
+        "btc_forecasted_calls_hours":{
+            "name": "BTC Hour and Calls Forecast",
+            "id": "23299889-B162-4167-991E-0DD5024B3EBE"
+        },
+        "car_rental_eight_forecasted_calls_hours":{
+            "name": "Car Rental 8 Hours and Calls Forecast",
+            "id": "729E8193-78C9-40A9-A371-82EC43AD4D50"
+        },
+        "carey_forecasted_calls_hours":{
+            "name": "Carey Hours and Calls Forecast",
+            "id": "A719DB86-95B8-47E4-8E4C-467B02F8C59E"
+        },
+        "harry_and_david_forecasted_calls_hours":{
+            "name": "Harry and David Hours and Calls Forecast",
+            "id": "211CA7AB-3ED3-4769-A43A-D8A5611205C7"
+        },   
+        "hilton_forecasted_calls_hours":{
+            "name": "Hilton Hours and Calls Forecast",
+            "id": "6211B137-D25D-40C6-8C7E-BBBE02DC29FA"
+        },
+        "homesite_forecasted_calls_hours":{
+            "name": "Homesite Hours and Calls Forecast",
+            "id": "29A67D98-5E87-4401-B4E3-1C8A5748666A"
+        }, 
+        "jps_forecasted_calls_hours":{
+            "name": "JPS Hours and Calls Forecast",
+            "id": "A6CEEA89-1023-45C3-9196-B11C4C317D5D"
+        },
+        "kroger_forecasted_calls_hours":{
+            "name": "Kroger Hours and Calls Forecast",
+            "id": "2718F1CC-595F-41CB-ACD2-767AEEFDE7CE"
+        },
+        "lifetouch_forecasted_calls_hours":{
+            "name": "Lifetouch Hours and Calls Forecast",
+            "id": "2C521B45-0629-4EE8-9EF8-BDD5B4A91EBC"
+        },     
+        "liveperson_forecasted_calls_hours":{
+            "name": "Liveperson Hours and Calls Forecast",
+            "id": "BC6F6461-278C-421C-B575-28CEEF61099E"
+        },  
+        "louis_vuitton_forecasted_calls_hours":{
+            "name": "Louis Vuitton Hours and Calls Forecast",
+            "id": "A4257D36-B039-452A-BD0C-DCBD07FE7B5B"
+        },
+        "maxsold_forecasted_calls_hours":{
+            "name": "Maxsold Hours and Calls Forecast",
+            "id": "83116609-CBE6-4AF6-AADB-349758506F8F"
+        },
+        "ministry_of_health_forecasted_calls_hours":{
+            "name": "Ministry of Health Hours and Calls Forecast",
+            "id": "A5948C77-9E68-49C5-B188-A10177457A0F"
+        },
+        "office_depot_forecasted_calls_hours":{
+            "name": "Office Depot Hours and Calls Forecast",
+            "id": "B48FAA02-FCE2-4C55-966D-A4ECF78F97D5"
+        },        
+        "ontellus_forecasted_calls_hours":{
+            "name": "Ontellus Hours and Calls Forecast",
+            "id": "058B0BD5-1E40-4A5D-A63F-094A76A885ED"
+        },
+        "psn_forecasted_calls_hours":{
+            "name": "PSN Hours and Calls Forecast",
+            "id": "4098C918-6B1D-4796-8CD1-A73A8FECD261"
+        },
+        "run_buggy_forecasted_calls_hours":{
+            "name": "Run Buggy Hours and Calls Forecast",
+            "id": "5BAA271D-8119-44F1-8BC8-5C22B804B622"
+        },
+        "shutterfly_forecasted_calls_hours":{
+            "name": "Shutterfly Hours and Calls Forecast",
+            "id": "28969C62-85EB-44CC-8C46-2AC7DF82A3FA"
+        },
+        "speedy_forecasted_calls_hours":{
+            "name": "Speedy Hours and Calls Forecast",
+            "id": "EB47A953-F6A6-4D80-8881-DAE37EF38BC8"
+        },
+        "the_general_sales_forecasted_calls_hours":{
+            "name": "The General Sales Hours and Calls Forecast",
+            "id": "1ec01e9e-775b-4c39-a9a5-643ecc65281a"
+        },     
+        "the_general_customer_service_forecasted_calls_hours":{
+            "name": "The General Customer Service Hours and Calls Forecast",
+            "id": "4e553550-215f-42b1-9f76-d11472134c29"
+        },                                                                                                                                                                                                           
+        "one_eight_hundred_flowers_forecasted_calls_hours":{
+            "name": "1800 Flowers Hours and Calls Forecast",
+            "id": "521890DA-3C8D-4AE0-AEBD-FE112CEDB716"
+        },
+        "active_engage_daily_billable_hours":{
+            "name": "Activeengage Daily Billable Hours",
+            "id": "7e234ab4-e492-4802-baa2-f86f3eb9bde4"
+        },
+        "ministry_health_daily_billable_hours":{
+            "name": "Ministry of Health Daily Billable Hours",
+            "id": "dbc841d0-6174-4890-a8dd-cd7016024717"
+        },
+        "btc_daily_billable_minutes":{
+            "name": "BTC Daily Billable Minutes",
+            "id": "3f0cb5af-1ffa-45c8-995b-8dfbd0ca9136"
+        },
+        "harry_and_david_daily_billable_hours":{
+            "name": "Harry and David Daily Billable Hours",
+            "id": "B5164216-17A9-48E4-BE42-B6DF15CC2039"
+        },
+        "hilton_daily_handled_calls":{
+            "name": "Hilton Daily Handled Calls",
+            "id": "158FBF47-322C-4DD3-B03D-E9F4388D959D"
+        },
+        "home_site_daily_billable_hours":{
+            "name": "Homesite Daily Billable Hours",
+            "id": "9f3d4bf6-8711-4a8d-b0be-5a60b47fc881"
+        },
+        "run_buggy_daily_billable_hours":{
+            "name": "Run Buggy Billable Hours",
+            "id": "e533b4ec-2a6c-4269-a0b5-33a9e37f1d7a"
+        },
+        "the_general_blended_daily_billable_hours":{
+            "name": "The General Daily Billable Hours",
+            "id": "6b8cd191-db7c-43d9-8aad-837aa464e1cd"
+        },
+        "the_general_customer_service_daily_billable_hours":{
+            "name": "The General Daily Billable Hours",
+            "id": "76b8088b-4afd-46fa-a578-ba1d3b6b9a61"
+        },
+        "kroger_daily_billable_hours":{
+            "name": "Kroger Daily Billable Hours",
+            "id": "e7a4d67c-c88e-43e1-a7bb-7b660871ec76"
+        },
+        "maxsold_daily_billable_hours":{
+            "name": "Maxsold Daily Billable Hours",
+            "id": "CA5CE101-F495-4464-A8BB-2EA0B05DC38F"
+        },
+        "shutterfly_lifetouch_daily_billable_hours":{
+            "name": "Shutterfly Daily Billable Hours",
+            "id": "3a34a504-89e8-4a11-80a7-84ae8431e13a"
+        },
+        "louis_vuitton_daily_worked_hours":{
+            "name": "Louis Vuitton Daily Billable Hours",
+            "id": "083ee0d3-c3c6-4d39-89d6-a6e89929ebd5"
+        },
+        "business_unit_billable_rates":{
+            "name": "Business Unit Billable Rates",
+            "id": "ACD4247E-27BB-48A3-9210-D57DF6CB821A"
+        },
+        "altice_mbj_billable_system_issue_hours":{
+            "name":"Altice MBJ System Issue Hours",
+            "id":"1C009316-5F21-408C-BE5E-D2EDEA6C5290"
+        },        
+        "altice_kgn_billable_system_issue_hours":{
+            "name":"Altice KGN System Issue Hours",
+            "id":"0F35CC68-0AEF-4A02-BF98-BEB674757F7B"        
+        },
+        "altice_slu_billable_system_issue_hours":{
+            "name":"Altice SLU System Issue Hours",
+            "id":"0DC01DE8-C757-4B82-868C-27946BBD159C"        
+        },
+        "altice_glb_approved_overages":{
+            "name":"Altice Approved Overages",
+            "id":"83B910D4-4C50-46E5-B74E-016539D8938F"        
+        },
+        "business_unit_budgets":{
+            "name":"Budgeted Revenue by Business Unit",
+            "id":"23b065f2-0b5b-42f9-bf3b-91c564a1ec85"        
+        },
+        "business_unit_ancillary_training_revenue":{
+            "name":"Ancillary and Training Revenue Streams by Business Unit",
+            "id":"ecd60efa-3e24-4d2c-85c8-bc42d12fb20d"        
+        },
+        "bmot_daily_billable_hours":{
+            "name": "BMOT Daily Billable Hours",
+            "id": "30618b8a-b524-44e9-b51d-f5ffb68a8b35"
+        }, 
+        "bradford_daily_billable_hours":{
+            "name": "Bradford Daily Billable Hours",
+            "id": "95354b51-e778-4506-9bd2-5fc0323026e7"
+        },
+        "breville_daily_billable_hours":{
+            "name": "Breville Daily Billable Hours",
+            "id": "1940CBA4-28C8-4C88-B27E-C3100F0A3129"
+        }, 
+        "car_rental_eight_daily_billable_hours":{
+            "name": "Car Rental 8 Daily Billable Hours",
+            "id": "B59E325D-371D-4CAE-8BC4-FCF565E7FFAC"
+        },  
+        "carey_daily_billable_hours":{
+            "name": "Carey Daily Billable Hours",
+            "id": "6ce2c4cd-126c-485b-8ab2-db9924013b6f"
+        },  
+        "jps_daily_billable_hours":{
+            "name": "JPS Daily Billable Hours",
+            "id": "61f7db85-9dc7-46e3-859b-bfe33fdfb4d4"
+        },  
+        "ontellus_daily_billable_hours":{
+            "name": "Ontellus Daily Billable Hours",
+            "id": "f01b2df2-d994-45c4-8725-e0bd8bf33a65"
+        },  
+        "psn_daily_billable_hours":{
+            "name": "PSN Daily Billable Hours",
+            "id": "9f3ca244-869e-4616-90aa-4c971e765f65"
+        },   
+        "speedy_daily_billable_hours":{
+            "name": "Speedy Daily Billable Hours",
+            "id": "a5b96d27-b3ac-4151-af0f-38a849aa17ad"
+        },  
+        "one_eight_hundred_flowers_daily_billable_hours":{
+            "name": "1800 Flowers Daily Billable Hours",
+            "id": "3702061F-F1F1-46DC-960E-5E8B81997090"
+        },
+        "ancestry_daily_billable_hours":{
+            "name": "Ancestry Daily Billable Hours",
+            "id": "304eccc0-fd67-4207-8fbb-1742f72ec037"
+        },
+        "anyone_home_daily_billable_training_hours":{
+            "name": "Anyone Home Daily Billable Training Hours",
+            "id": "1b99542a-f2f1-4f01-8e73-c9e0c54b87ae"
+        },
+        "altice_daily_billable_training_hours":{
+            "name": "Altice Daily Billable Training Hours",
+            "id": "2e0c3f49-ac0f-4b9a-b84c-38349629b563"
+        },
+        "liveperson_daily_billable_training_hours":{
+            "name": "Liveperson Daily Billable Training Hours",
+            "id": "b9f9ca5e-57a3-457b-9104-d8d5beb99be2"
+        },
+        "office_depot_daily_billable_training_hours":{
+            "name": "Office Depot Daily Billable Training Hours",
+            "id": "f5f468a8-c324-4e01-ad82-5aa791731b92"
+        },
+        "iaa_daily_billable_hours":{
+            "name": "IAA Daily Billable Hours",
+            "id": "1AF6ADFF-D703-43D0-9248-BC11FA7DC718"
+        },
+        "iaa_forecasted_calls_hours":{
+            "name": "IAA Hours and Calls Forecast",
+            "id": "6264B563-0C9F-4AB6-A055-ECC47AA0EFD6"
+        },
+        "walmart_daily_billable_training_hours":{
+            "name": "Walmart Daily Billable Training Hours",
+            "id": "39a5fe6f-0d68-4c7c-afa3-57505287aa01"
+        },
+        "tds_field_services_hours_and_calls_forecast":{
+            "name": "TDS Field Services Hours and Calls Forecast",
+            "id": "544921A8-71F2-44BB-A334-F3856EDE987D"
+        },
+        "tds_field_services_daily_billable_hours":{
+            "name": "TDS Field Services Daily Billable Hours",
+            "id": "5BAE0C53-D638-4E1C-AFFA-D24B31B46A28"
+        },
+        "tds_financial_services_hours_and_calls_forecast":{
+            "name": "TDS Financial Services Hours and Calls Forecast",
+            "id": "815D3474-31D6-4A6C-A355-F7D5F80701CA"
+        },
+        "tds_financial_services_daily_billable_hours":{
+            "name": "TDS Financial Services Daily Billable Hours",
+            "id": "03E55583-7C77-4BC6-AD1A-BBAAEE16170F"
+        },
+        "tds_sales_hours_and_calls_forecast":{
+            "name": "TDS Sales Hours and Calls Forecast",
+            "id": "EF18FF47-B8E9-41C4-A75B-14BBE3CAF7EE"
+        },
+        "tds_sales_daily_billable_hours":{
+            "name": "TDS Sales Daily Billable Hours",
+            "id": "9198BB23-23A8-431B-8EA8-7853C33A3FBF"
+        },
+        "tds_repair_hours_and_calls_forecast":{
+            "name": "TDS Repair Hours and Calls Forecast",
+            "id": "40852621-3F25-462A-BBC6-47CA229C7DF6"
+        },
+        "tds_repair_daily_billable_hours":{
+            "name": "TDS Repair Daily Billable Hours",
+            "id": "73C895F8-9CA6-4D27-99E3-C78D779A1661"
+        },
+        "month_end_closing_revenue":{
+            "name": "Monthly Actual Revenue",
+            "id": "9752C68B-D2DF-460A-837F-0E449360A4A7"
+        },
+        "sap_support_staff_overtime":{
+            "name": "Honduras Support Staff Overtime",
+            "id": "711885E0-D7DF-4B9B-9F91-D1E86C800A92"
+        },
+        "sap_support_staff_payroll_allowances":{
+            "name": "Honduras Payroll Allowances",
+            "id": "EE11AFA7-FE80-41EF-881C-D42CCE881BFE"
+        },
+        "sap_payroll_bonuses":{
+            "name": "Honduras Payroll Bonuses",
+            "id": "eb8a5d4d-115b-44c3-9e2d-3ce56a6c266e"
+        }
+        ,
+        "sap_support_staff_worked_time":{
+            "name": "Honduras Support Staff Worked Time",
+            "id": "304509b6-a54f-432c-adfd-b2cea8629958"
+        },
+        "sap_payroll_deductions":{
+            "name": "Honduras Payroll Deductions",
+            "id": "ffecbe99-07f1-470b-8ace-db8bb5c89833"
+        },
+        "outlook_locked_forecast":{
+            "name": "Outlook Locked Forecast",
+            "id": "AB17D2D1-3037-4262-83B1-021071CA33D1"
+        },
+        "altice_committed_hours":{
+            "name": "Altice Committed Hours",
+            "id": "d381d768-caeb-4b84-b767-6e1b3aabcf74"
+        },
+        "transporation_form_arrival_departure_log":{
+            "name": "Transportation Bus Departure Arrival Log",
+            "id": "57148006-1270-4FC1-A413-CE91A435C680"
+        },
+        "honduras_trip_cost":{
+            "name": "Consolidated Honduras Cost",
+            "id": "F71E5CE5-C31F-4D4F-9F7E-10B3B9F0B510"
+        },
+        "transportation_car_capacity_rates":{
+            "name": "Altice Committed Hours",
+            "id": "08ffd3f6-3be8-4e37-be3c-ee4a39ae484b"
+        },
+        "sap_other_income_sources":{
+            "name": "Honduras Other Income Sources",
+            "id": "a9a12073-a393-4c5d-885c-67d9e7301601"
+        },
+        "customer_net_promoter_score":{
+            "name": "Customer Net Promoter Score",
+            "id": "7E926F5F-F1E4-4826-96B0-3BBA6C9DDFEA"
+        },
+        "monthly_budgeted_payroll":{
+            "name": "Budgeted Payroll by Business Unit",
+            "id": "2e800481-b96a-40dc-9ec5-7f9872878741"
+        },
+        "monthly_closing_payroll":{
+            "name": "Closing Monthly Payroll",
+            "id": "6778b2f0-0767-4e31-bcf5-fc930dcb7f5b"
+        },
+        "global_tds_repair_productivity":{
+            "name":"/TDS/TDS Repair/Global/Productivity",
+            "id":"08294C56-5F54-49B7-A937-E1B5D88391D5"
+        },
+        "global_tds_financial_services_productivity":{
+            "name":"/TDS/TDS Financial Services/Global/Productivity",
+            "id":"F82B50CD-8E66-4064-8E83-82F9677D3492"
+        },
+        "global_tds_fields_services_productivity":{
+            "name":"/TDS/TDS Fields Services/Global/Productivity",
+            "id":"4B8C99C7-DAAD-4A0A-A1EE-EF694D609420"
+        },
+        "payroll_adjustment_factors":{
+            "name":"Payroll Adjustment Factors",
+            "id":"d864e516-5e50-4836-b189-e5dd5524fa41"
+        },
+        "planned_training_template":{
+            "name":"/capacity_planning/live_excels/Planned Training Template",
+            "id":"B90E7387-DFF7-4DC7-B23E-82906E72FB40"
+        },
+        "consolidated_cap_plan":{
+            "name": "/capacity_planning/live_excels/Consolidated Cap Plan",
+            "id": "BD8446C1-D2F2-40E5-8B7A-5618C29A1FA0"
+        },
+        "anyone_home_adherence":{
+            "name": "Adherence",
+            "id": "D8161889-1013-41A0-804A-417BDFDFC8A8"
+        },
+        "walmart_exceptions":{
+            "name": "Walmart Exceptions",
+            "id": "03b8d2f5-b39c-4021-b9b7-5529a384a4b1"
+        },
+        "tds_hrm_employee_id":{
+            "name": "/TDS/Global/WFM/TDS Alignments",
+            "id": "4196D90C-8D30-4E9D-B74D-B9343432B71F"
+        },
+        "tds_billable_codes":{
+            "name": "TDS Billable Codes",
+            "schema": "tds",
+            "target_table":"glb_agent_status_billable_codes",
+            "id": "C695B177-0079-4992-9671-D021468E1441"
+        },
+        "tcc_jlp_daily_billable_hours":{
+            "name": "/TCC JLP/WFM/TCC JLP Daily Billable Hours",
+            "id": "CD9207E7-BAF8-4BCA-A32C-6AF973D03812"
+        },
+        "tcc_jlp_hours_and_calls_forecast":{
+            "name": "/TCC JLP/WFM/TCC JLP Hours and Calls Forecast",
+            "id": "9FA413F9-351A-4EC4-A07D-D0D818FB214E"
+        },
+        "ccc_daily_billable_hours":{
+            "name": "/CCC/Global/WFM/CCC Daily Billable Hours",
+            "id": "1C28B0CF-B446-4A27-9C38-D5412569DE90"
+        },
+        "ccc_hours_and_calls_forecast":{
+            "name": "/CCC/Global/WFM/CCC Hours and Calls Forecast",
+            "id": "A48EB02A-029A-4F01-A62A-305C8CCD7498"
+        },
+        "mia_daily_billable_hours":{
+            "name": "/MIA Aesthetics/Global/WFM/MIA Aesthetics Daily Billable Hours",
+            "id": "2DC6F754-DDA8-41A9-900F-699EFFCC02BE"
+        },
+        "mia_hours_and_calls_forecast":{
+            "name": "/MIA Aesthetics/Global/WFM/MIA Aesthetics Hours and Calls Forecast",
+            "id": "AC8CC694-B45A-40A6-BB3D-6F6B2352120D"
+        },
+        "tds_com_hours_and_calls_forecast":{
+            "name": "/TDS/Global/WFM/TDS COM Hours and Calls Forecast",
+            "id": "F9D0E7A2-C6E8-430A-BCBC-E06349D9C214"
+        },
+        "tds_cno_hours_and_calls_forecast":{
+            "name": "/TDS/Global/WFM/TDS CNO Hours and Calls Forecast",
+            "id": "39C380CA-7560-4CAB-A3E1-483C5F0D04B0"
+        },
+        "tds_com_daily_billable_hours":{
+            "name": "/TDS/Global/WFM/TDS COM Daily Billable Hours",
+            "id": "4835758F-90FC-4168-AFA7-5E0AD22F616B"
+        },
+        "tds_cno_daily_billable_hours":{
+            "name": "/TDS/Global/WFM/TDS CNO Daily Billable Hours",
+            "id": "BA6C5080-7ADB-40E2-B678-E38617B58C74"
+        },
+        "epremium_daily_billable_hours":{
+            "name": "/ePremium/Global/WFM/ePremium Daily Billable Hours",
+            "id": "F51662B6-083D-4345-B063-6760315FE0BF"
+        },
+        "epremium_hours_and_calls_forecast":{
+            "name": "/ePremium/Global/WFM/ePremium Hours and Calls Forecast",
+            "id": "6B5536AB-4CA5-49D4-98BF-61DED0FBE926"
+        },
+        "henry_schein_daily_billable_hours":{
+            "name": "/Henry Schein One/Global/WFM/Henry Schein One Daily Billable Hours",
+            "id": "EFD13FB7-0A98-4BAA-A333-5D792C2E98C0"
+        },
+        "henry_schein_and_calls_forecast":{
+            "name": "/Henry Scheine One/Global/WFM/Henry Scheine One Hours and Calls Forecast",
+            "id": "9D852D15-7B84-4455-AFFC-EFAB841927A4"
+        },
+        "wm_geo_alignments":{
+            "name": "/Walmart/Global/WFM/Guyana Roster",
+            "id": "892B42ED-4803-4405-B316-699D5E680683",
+            "schema": "walmart",
+            "target_table":"glb_team_alignments",
+            "delete_key":["site"]
+        },
+        "altice_alignments":{
+            "name": "/Altice/Global/WFM",
+            "id": "8659ED1B-5830-42E6-91C8-70F64ABC604C",
+            "schema": "altice",
+            "target_table":"glb_alignments"
+        },
+        "auto_europe_hours_and_calls_forecast":{
+            "name": "/Auto Europe/Global/WFM/Auto Europe Hours and Calls Forecast",
+            "id": "8679B0AC-B209-40B5-88D7-B250B6BF2DBF"
+        },
+        "auto_europe_daily_billable_hours":{
+            "name": "/Auto Europe/Global/WFM/Auto Europe Daily Billable Hours",
+            "id": "DF53D3C4-3A8E-4956-916F-5C485642AB30"
+        },
+        "avis_daily_billable_hours":{
+            "name": "/Avis/Global/WFM/Avis Daily Billable Hours",
+            "id": "EAA1CD6B-90A0-4D68-B7BC-DB60B2A2A596"
+        },
+        "avis_hours_and_calls_forecast":{
+            "name":"/Avis/Global/WFM/Avis Daily Hours and Calls Forecast",
+            "id":"8DF81F24-23F2-4BB2-AD7D-0940E9A026E5"
+        },
+        "goals_forecasted_calls_hours":{
+            "name": "/Goals/Global/WFM/Goal Hours and Calls Forecast",
+            "id": "930C0221-C48D-4D1F-9A22-5FF618E19A29"
+        },
+        "goals_daily_billable_hours":{
+            "name": "/Goals/Global/WFM/Goals Daily Billable Hours",
+            "id": "4ADF251C-477E-4922-B090-15C57561502C"
+        },
+        "budgeted_payroll_and_billable_hours":{
+            "name": "/Finance/Budgeted Hours by Business Unit",
+            "id": "89D757CD-C78B-4771-95EA-A177F3A2782A"
+        }
+    },
+    "folders": {
+        "altice_kgn_daily_prod":{
+            "name": "altice_kgn_productivity_data",
+            "id": "9b232b5d-da49-4b3d-94e2-28045104329e" ,
+            "historical_id":"8faae78b-566d-4382-9eb4-cacc020ebe30",
+            "schema": "altice",
+            "target_table":"kgn_productivity"      
+            },
+
+        "altice_mbj_daily_prod":{
+            "name": "altice_mbj_productivity_data",
+            "id": "6b47a27a-1602-4d73-8300-cd6671b3983a" ,
+            "historical_id":"84bd1a2c-666a-4352-815a-eead2b4640dd",
+            "schema":"altice",
+            "target_table":"mbj_productivity"      
+            },
+
+        "altice_slu_daily_prod":{
+            "name": "altice_slu _productivity_data",
+            "id": "52351a32-0bcf-42f8-8c96-4ee21f808139" ,
+            "historical_id":"250099fe-3f04-4264-9998-2f1136867e40",
+            "shcema":"altice",
+            "target_table":"slu_productivity"      
+            },
+
+        "hilton_prod":{
+            "name": "hilton_productivity_data",
+            "id": "93bc426d-656b-4b70-8c6d-94e8564bed18" ,
+            "historical_id": "904bc88d-ef0f-41ab-89ee-71548f26c206",
+            "schema":"hilton",
+            "target_table" :"productivity"     
+        },
+
+        "hilton_team_alignments":{
+            "name": "hilton_team_alignments",
+            "id": "4947d4b3-b32e-4c68-9190-e0b058ebc4fd" ,
+            "historical_id": "1c3f9874-5ee4-4b12-8bf9-a2edb7706190",
+            "schema":"hilton",
+            "target_table" :"team_alignments"      
+        },
+        
+        "kroger_prod":{
+            "name": "kroger_productivity_data",
+            "id": "334e50fb-10b5-4220-9200-a57695d0553f" ,
+            "historical_id": "ca1c37e8-627e-4316-a201-3d58ab0648cf",
+            "schema":"kroger",
+            "target_table": "productivity"   
+        },
+        
+        "kroger_csat":{
+            "name": "kroger_clients_csat",
+            "id": "dd47af5e-77a4-4592-bf68-27a37b96dde7" ,
+            "historical_id": "caa294e0-f945-47cf-bf48-ea6ea47f721f",
+            "schema":"kroger",
+            "target_table": "csat"   
+        },
+        
+        "kroger_quality":{
+            "name": "kroger_quality",
+            "id": "291f6c80-61de-4820-8d97-45a6a96da950" ,
+            "historical_id": "673d3a74-ab68-4af9-aa85-69d55b2bcd23",
+            "schema":"kroger",
+            "target_table": "quality"   
+        },
+
+        "walmart_prod":{
+            "name": "walmart_productivity_data",
+            "id": "da4ebc8d-6e79-407c-856a-c8bb62927f45",
+            "historical_id": "46461fbb-623b-42c2-9aa7-315f38a30811",
+            "schema":"walmart",
+            "target_table": "glb_agent_productivity_sixty_min_interval"   
+        },
+        "altice_mobile_ats_eod":{
+            "name": "altice_mobile_ats_eod",
+            "id": "26fd8276-4314-473c-a387-0b5aa92da957",
+            "historical_id": "13d1eb2a-ea54-4250-9783-f3f7d7c53ed8",
+            "schema":"altice",
+            "target_table": "glb_mobile_ats"   
+        },  
+        "altice_optimum_ats_eod":{
+            "name": "altice_optimum_ats_eod",
+            "id": "22291f8b-8273-423a-86be-78a262366d1a",
+            "historical_id": "bef2bd72-70a2-4412-a5cc-a9860690ea88",
+            "schema":"altice",
+            "target_table": "glb_optimum_ats"   
+        },
+        "altice_suddenlink_ats_eod":{
+            "name": "altice_suddenlink_ats_eod",
+            "id": "3e52f128-3091-4446-94ec-a809994341b5",
+            "historical_id": "121bab9e-99a9-4478-be73-04c8f97e36bc",
+            "schema":"altice",
+            "target_table": "glb_suddenlink_ats"   
+        },
+        "walmart_unavailable_time":{
+            "name": "walmart_unavailable_codes_time",
+            "id": "4aeee2f9-65a5-4c3f-828f-d4f8d883dd00",
+            "historical_id": "a4bc50f7-420b-4c3e-8137-6e0ec2784078",
+            "schema":"walmart",
+            "target_table": "glb_agent_unavailable_time"      
+        },        
+        "walmart_glb_csat":{
+           "name": "Walmart CSAT by Agent Folder",
+            "id": "34d50c12-482d-4bf2-94bc-c9c2a490beda",
+            "historical_id": "21569f3f-9d0e-4fc3-b655-02f022ba4751",
+            "schema":"walmart",
+            "target_table": "glb_csat"         
+        }, 
+        "anyone_home_agent_call_data":{
+            "name": "anyone_home_agent_call_data",
+            "id": "b6b7b994-5f95-4303-bbc3-ceb46e79e618",
+            "historical_id": "d552ca7c-248b-449b-ae27-94dbea757fae",
+            "schema":"anyone_home",
+            "target_table": "glb_agent_call_data"      
+        },
+        "anyone_home_agent_state_time":{
+            "name": "anyone_home_agent_state_time",
+            "id": "a1578641-e2b3-42e0-8aea-1d8c0d8ee184",
+            "historical_id": "8d42206f-5db9-4fe9-8cb2-969f87e13fcc",
+            "schema":"anyone_home",
+            "target_table": "glb_agent_state" 
+        },
+        "altice_optimum_mobile_nrrc_eod":{
+            "name": "altice_optimum_mobile_nrrc_eod",
+            "id": "ad77c70b-2624-4b21-be9a-07260b6ede22",
+            "historical_id": "6f42d0e5-eeaf-4ce1-a89e-9a4dbfbc4666",
+            "schema":"altice" 
+        },  
+        "altice_suddenlink_nrrc_eod":{
+            "name": "altice_suddenlink_nrrc_eod",
+            "id": "c706ac32-659d-4551-9bde-b10100d40a06",
+            "historical_id": "351a550c-0cee-48f4-b96b-9a27f05f7a30",
+            "schema":"altice",
+            "target_table": "glb_suddenlink_nrrc"   
+        },
+        "altice_login_logout":{
+            "name": "altice_login_logout",
+            "id": "9236f37a-6725-46a2-97bf-88076c6269d9",
+            "historical_id": "3b6a3c20-8638-48c8-8164-d028296c4f73",
+            "schema":"altice",
+            "target_table": "glb_login_logout"   
+        },        
+        "the_general_prod_qa":{
+            "name": "The General Last Day Report",
+            "id": "ec613cd5-50e1-419d-ab35-688177919750",
+            "historical_id": "ac3689f6-690a-4955-b003-f48fd062fce5",
+            "schema":"the_general",
+            "target_table": "glb_aht" 
+        },        
+        "the_general_sales_data":{
+            "name": "The General sales agent data",
+            "id": "918d9f76-e379-4ed1-bb2d-c5c13f163c6c",
+            "historical_id": "0169a923-97e3-44cb-b00a-05a0f59397b2",
+            "schema":"the_general",
+            "target_table": "glb_sales_data"         
+        },        
+        "anyone_home_state_transactional_detail":{
+            "name": "Anyone Home Community State Transactional Detail Report",
+            "id": "7e26ee8e-1b13-4beb-a950-615350ed8d4f",
+            "historical_id": "3677e5af-3569-48a9-a030-a348b8b50660",
+            "schema":"anyone_home",
+            "target_table": "glb_state_transactional_detail"         
+        },
+        "coadvantage_employee_data":{
+            "name": "Coadvantage Employee Data",
+            "id": "3ada8660-1c8a-43c5-af44-6da90e2c4af5",
+            "historical_id": "6f29ae5d-2234-4a7d-8cec-58cadce4d4ba",
+            "schema":"coadvantage",
+            "target_table": "employees"         
+        },
+        "global_training_calendar":{
+            "name": "Global Training Calendar",            
+            "id": "52297b0e-94bb-47e3-a0a9-5361d065da31",
+            "historical_id": "57cbe54b-aaf7-4a18-b729-7b1d2360d580",
+            "schema":"learning_development",
+            "target_table": "global_training_calendar"         
+        },
+        "walmart_call_time_data":{
+            "name": "Walmart Time Data",
+            "id": "75edad7c-20d6-44fb-8249-86a33dfbb732",
+            "historical_id": "3976c8a0-bad6-4856-afce-160450ef6fe0",
+            "schema":"walmart",
+            "target_table": "glb_agent_call_time_thirty_min_interval"   
+        },
+        "walmart_call_contact_data":{
+            "name": "Walmart Contact Data",
+            "id": "fc989a39-7bde-437c-af06-f3f7a03611d4",
+            "historical_id": "d3f93c81-b8b1-4d8c-901b-162b4f734e33",
+            "schema":"walmart",
+            "target_table": "glb_agent_contact_thirty_min_interval"   
+        },
+        "walmart_short_contacts":{
+            "name": "Walmart Short Contacts",
+            "id": "0c90306e-df33-4721-b3c7-0fc24b95355f",
+            "historical_id": "19d94644-3fcd-4153-a08e-e21f1f31b71c",
+            "schema":"walmart",
+            "target_table": "glb_agent_short_contacts"   
+        },
+        "liveperson_mbj_agent_prod":{
+            "name": "Liveperson MBJ Agent Productivity",
+            "id": "b3f94a17-4175-4982-8b82-0dc263b0b1da",
+            "historical_id": "a6d6f13d-de1e-4511-8e68-a991652fe718",
+            "schema":"liveperson",
+            "target_table": "mbj_agent_productivity"   
+        },
+        "liveperson_mbj_chat_data":{
+            "name": "Liveperson MBJ Chat Data",
+            "id": "2321b8b8-8e56-49ef-a2a6-e1353c3d6210",
+            "historical_id": "cd0f4882-4b8c-4af2-b30f-df7d673051f2",
+            "schema":"liveperson",
+            "target_table": "mbj_chat_data"   
+        },
+        "coadvantage_timesheet":{
+            "name": "Coadvantage Timesheet",
+            "id": "acd6de1a-d994-46e4-989a-fe50c1b17996",
+            "historical_id": "6b0c3ccb-f06a-4cd2-895f-3b0981c5a566",
+            "schema":"coadvantage",
+            "target_table": "kronos_timesheet"   
+        },
+        "global_tds_sales_productivity":{
+            "name": "/TDS/TDS Sales/Productivity",
+            "id": "cadd9340-30cf-4b9b-b868-02a3397365dc",
+            "historical_id": "3882c626-3f51-4078-b969-d99297c6c465",
+            "schema":"tds",
+            "target_table": "glb_sales_productivity"
+        },
+        "ancestry_kgn_productivity_agent_snapshot":{
+            "name": "/Ancestry/KGN/Productivity/agent_snapshot",
+            "id": "48fda7fc-c5d5-4b03-b7e0-a3294a3994f8",
+            "historical_id": "a78f6a2b-8ee9-4b52-8554-95bd68578ad9",
+            "schema":"ancestry",
+            "target_table": "kgn_productivity_agentSnapshot",
+            "sheet_name": "Agent Snapshot",
+            "delete_keys": ["date", "agent_name"]
+        },
+        "ancestry_kgn_productivity_agent_time_card":{
+            "name": "/Ancestry/KGN/Productivity/agent_time_card",
+            "id": "8d2e2856-33d5-4f43-91de-aa57b99a78b8",
+            "historical_id": "abd65b7f-1f94-4900-b1f1-f6aa66bc0dbd",
+            "schema":"ancestry",
+            "target_table": "kgn_productivity_agent_time_card"
+        },
+        "ancestry_kgn_productivity_coaching_fs_meeting":{
+            "name": "/Ancestry/KGN/Productivity/coaching_fs_meeting",
+            "id": "031807a7-97fd-4d29-b24b-77649705859d",
+            "historical_id": "472eb4af-a1bc-4766-810a-5bc58778213b",
+            "schema":"ancestry",
+            "target_table": "kgn_productivity_coaching_fs_meeting"
+        },
+        "ancestry_kgn_productivity_sys_issues":{
+            "name": "/Ancestry/KGN/Productivity/sys_issues",
+            "id": "fd4a27b6-4ce3-4a57-8cde-443f7d34edd8",
+            "historical_id": "88b64c56-022f-4a5a-8691-e5b45e14ccd2",
+            "schema":"ancestry",
+            "target_table": "kgn_productivity_sys_issues",
+            "sheet_name": "Sys Issues",
+            "delete_keys" : ["date", "agent_name", "record_id"]
+        },
+        "ancestry_kgn_productivity_unavailable_time":{
+            "name": "/Ancestry/KGN/Productivity/unavailable_time",
+            "id": "1f3df39f-8124-407e-acc7-bb49498b1a02",
+            "historical_id": "abb708c3-ea7d-4be0-82db-2f2a5d51967d",
+            "schema":"ancestry",
+            "target_table": "kgn_productivity_unavailable_time",
+            "sheet_name": "Unavailable Times",
+            "delete_keys" : ["id","agent_name","date","code","code_type","durationinseconds"]
+        },
+        "glb_master_training":{
+            "name": "Master Training",
+            "id": "e343a308-089f-4c9b-aeea-95dfd407d8e2",
+            "historical_id": "23ca8c65-6b94-46d8-a273-759595907501",
+            "schema":"learning_development",
+            "target_table": "glb_master_training"
+        },
+        "walmart_roster":{
+            "name": "Walmart Roster",
+            "id": "291f0dd0-996b-4334-ae31-2464637451b4",
+            "historical_id": "0edd69f4-8baa-4e7c-8d3d-ca2625045fd9",
+            "schema":"walmart",
+            "target_table": "glb_team_alignments"
+        },
+        "walmart_internal_qa_stella":{
+            "name": "Walmart Internal QA Stella",
+            "id": "8e176d4f-601a-405f-853c-376dded72c1a", 
+            "historical_id": "afa4613b-65cf-421e-8937-72e49f274470",
+            "schema":"walmart",
+            "target_table": "glb_stella_internal_qa"
+        },
+        "glb_master_training_historical":{
+            "name": "Master Training",
+            "id": "0b505142-8a15-4161-9583-d173900bf72c",
+            "historical_id": "4888ffe2-3877-4012-99fd-b84217301b58",
+            "schema":"learning_development",
+            "target_table": "glb_master_training"
+        },
+        "ancestry_kgn_productivity_csat":{
+            "name": "/Documents/Ancestry/KGN/csat",
+            "id": "7d6d69e5-1818-443a-9928-db459e83c64b",
+            "historical_id": "68192ae0-2d19-4a7a-b6f6-c115184a77c2",
+            "schema":"ancestry",
+            "target_table": "kgn_productivity_csat"
+        },
+        "ancestry_kgn_productivity_qa":{
+            "name": "/Documents/Ancestry/KGN/qa",
+            "id": "29662cd7-2f09-47fa-8b65-635cb51459a6",
+            "historical_id": "254ea135-487b-4c22-bbc5-8164cc423ae1",
+            "schema":"ancestry",
+            "target_table": "kgn_productivity_qa"
+        },
+        "lv_glb_percent_on_queve":{
+            "name": "/Documents/Louis Vuitton/Global/Percent on Queve",
+            "id": "515f0d9d-06aa-4f6c-9264-18ffaf29503b",
+            "historical_id": "57a0bf6e-d598-4206-a1e2-ea9fe11c4a1a",
+            "schema":"louis_vuitton",
+            "target_table": "glb_percent_on_queve"
+        },
+        "lv_glb_quality_assessment":{
+            "name": "/Documents/Louis Vuitton/Global/Quality/Quality Assessment",
+            "id": "8b3a1b5e-10b8-41f1-8412-d2640c8e8d8d",
+            "historical_id": "e7ea0daa-d3c3-49e1-9eda-962db5e6d293",
+            "schema":"louis_vuitton",
+            "target_table": "glb_quality_assessment"
+        },
+        "lv_glb_service_level_requirement":{
+            "name": "/Documents/Louis Vuitton/Global/Service Level Requirement",
+            "id": "d6e233ee-6b77-438a-9699-69d36d37eae6",
+            "historical_id": "a5f3acad-aaf2-4310-b13b-9de13f9020c6",
+            "schema":"louis_vuitton",
+            "target_table": "glb_service_level_requirement"
+        },
+        "lv_glb_client_report":{
+            "name": "/Documents/Louis Vuitton/Global/Weekly Client Report",
+            "id": "783b65f1-c3cc-4867-8a26-221810cdced2",
+            "historical_id": "8a97d437-c936-47a7-93a9-aa2fe655a0f0",
+            "schema":"louis_vuitton",
+            "target_table": "glb_client_report"
+        },
+        "anyone_home_engagement":{
+            "name":"Anyone Home Engagement",
+            "id": "53f4cfc8-ac52-4f1d-874d-0b5ed99e5a7f",
+            "historical_id":"f71bd5c7-6641-4b4c-b23b-15ae6e4dc815",
+            "schema": "anyone_home",
+            "target_table": "glb_engagement"
+        },
+        "office_depot_geo_actual_forecast":{
+            "name": "Office Depot GEO Actual Forecast",
+            "id": "f87224f2-e5fe-4aff-9d36-dcbcc7aa2100",
+            "historical_id": "d3d3d9e9-13c3-4ec1-8359-12a9099480ba",
+            "schema": "office_depot",
+            "target_table": "geo_forecast_actuals_staff_hours"
+        },        
+        "walmart_schedules":{
+            "name": "Walmart Schedules",
+            "id": "809ca2d4-dc5c-4840-814b-51b8ca92fead",
+            "historical_id": "e2ca8e33-1bda-4ce6-8d58-8c1561cb1e59",
+            "schema":"walmart",
+            "target_table": "sap_schedules"
+        },
+        "handled_compliance_outbound":{
+            "name": "Handled Compliance Outbound",            
+            "id": "c2a0af86-d3f3-441d-ba49-50c3684a12ea",
+            "historical_id": "b242627f-4d7e-4f8a-b13f-e92149891dd5",
+            "call_type_flag": "Outbound",
+            "site":"SAP",
+            "schema":"walmart",
+            "target_table": "glb_handled_compliance"         
+        },
+        "handled_compliance_inbound":{
+            "name": "Handled Compliance Inbound",            
+            "id": "fdd9682d-098a-47e7-ad84-955dec840520",
+            "historical_id": "74689e17-1c9a-45a1-af1c-c10b0ee1678e",
+            "call_type_flag": "Inbound",
+            "site":"SAP",
+            "schema":"walmart",
+            "target_table": "glb_handled_compliance"         
+        },
+        "handled_compliance_outbound_jam":{
+            "name": "Handled Compliance Outbound",            
+            "id": "5b4a9fbb-bb52-46ed-ad13-a6e67a056fbd",
+            "historical_id": "dabd8bf2-3a5d-4ce0-bafb-be808667f8c7",
+            "call_type_flag": "Outbound",
+            "site":"KGN",            
+            "schema":"walmart",
+            "target_table": "glb_handled_compliance"         
+        },
+        "handled_compliance_inbound_jam":{
+            "name": "Handled Compliance Inbound",            
+            "id": "611cb381-347d-4f4b-8272-1b80478c59cb",
+            "historical_id": "97324ac4-1abd-4830-b696-6f2614e2e398",
+            "call_type_flag": "Inbound",
+            "site":"KGN",
+            "schema":"walmart",
+            "target_table": "glb_handled_compliance"         
+        },            
+        "glb_cx_daily_scores":{
+            "name": "/learning_development/Global CX Daily Reports/CX Daily Scores -  Clean File",
+            "id": "d0900afa-beb1-4bb3-9837-f9fb5027817e",
+            "historical_id": "77c199be-2c0e-44d4-a7c2-f9d362f0b7e7",
+            "schema":"learning_development",
+            "target_table": ["glb_cx_daily_reports","glb_cx_daily_reports_mtd"]
+        },
+        "slu_hilton_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Hilton SLU",
+            "hrplus_format_output": "2ea83223-7740-4dc5-a20f-2e1565dd7851",
+            "id":"f7e0bcfd-63df-43d9-9ee2-defbcf3e34af",
+            "historical_id": "ee2c8a93-de9c-4c69-8b3f-3176a169c0e7"
+        },
+        "slu_altice_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Altice SLU",
+            "hrplus_format_output": "af250a67-f4f7-48f4-b700-1da69c20eec5",
+            "id":"d9aac7de-c126-4aa8-96e9-ab54d985db7c",
+            "historical_id": "8148dd43-6e40-4ea9-bb07-15bf9e5d7a0c"
+        },
+        "slu_kroger_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Kroger SLU",
+            "hrplus_format_output": "1eba12f3-e256-4eb9-b327-2f942b96607a",
+            "id":"4db51e9c-74d0-45c9-bba9-b90741345425",
+            "historical_id":"d2ab9635-92c3-4d91-acc0-d30cb65048f9"
+        },
+        "slu_tds_financial_services_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/TDS Financial Services SLU",
+            "hrplus_format_output": "a38f81ce-e220-4d01-bd97-a6956a4aa565",
+            "id":"55cd249b-82e3-46d4-9a25-f79412e44a48",
+            "historical_id":"4f684697-52da-44e4-a4c7-43e5292af34b"
+        },
+        "slu_tds_repairs_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/TDS Repair SLU",
+            "hrplus_format_output": "3e04d553-a73c-4efc-ae28-04b9fdaca092",
+            "id":"805f1573-cf24-4fc8-9983-ed3ffc3e4343",
+            "historical_id":"e1095c38-0aa0-4daf-ab16-65f928b68b2b"
+        },
+        "slu_tds_sales_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/TDS Sales SLU",
+            "hrplus_format_output": "f180a3ef-4ff9-4a0a-8750-f6a0ae88216f",
+            "id":"c298ae3d-b91c-4b93-acc8-215518a3fa9c",
+            "historical_id":"1db55050-1b9e-4dec-80f4-8368ff51f541"
+        },
+        "kgn_ancestry_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Ancestry KGN",
+            "hrplus_format_output": "f5cdf849-d69d-4950-bd12-b9bcb5e89a18",
+            "id":"e8757f9b-55c0-4a8d-aa6b-67f802b4dd96",
+            "historical_id":"f33b2e29-c57c-47ca-91f7-148b0e34641b"
+        },
+        "glb_altice_wfm":{
+            "name": "/Altice/Global/WorkForce Crystal Ball",
+            "id": "5f2e98ff-bdef-47bd-a3f7-1653dc80fd99",
+            "historical_id": "3e40b6f3-685d-4c60-8eb3-6bae50d8f7a8",
+            "schema":"altice",
+            "target_table": "glb_wfm_o_u_interval_report"
+        },
+        "mbj_1800_flowers_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/1800 Flowers MBJ",
+            "hrplus_format_output": "f62613c2-d5e5-40cb-acb8-473bfaccd2a6",
+            "id":"ebf41520-a30d-4f86-ba2b-9425003e68c6",
+            "historical_id" : "44b40870-c686-429f-88bb-e8b239bf7cb9"
+        },
+        "mbj_tds_field_services_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/TDS Field Services MBJ",
+            "hrplus_format_output": "32aea0a4-702b-4b3f-a558-3a25329fe5aa",
+            "id":"f8261c48-b283-417c-a6d3-527fb371eb79",
+            "historical_id":"f22db548-0b06-4fb0-8a00-1c91bf040ca5"
+        },
+        "slu_speedy_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Speedy SLU",
+            "hrplus_format_output": "7831d718-65be-495f-b4c0-7eee303119f4",
+            "id":"a05b41ad-650b-4f57-8061-95af7a161f20",
+            "historical_id":"adcdb341-4ab4-481b-8a44-d50ec8960424"
+        },
+        "mbj_speedy_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Speedy MBJ",
+            "hrplus_format_output": "c1abf302-7158-4111-bbbe-885b9887295f",
+            "id":"9b948a7e-1e0b-4bd8-9a46-d189010d6a79",
+            "historical_id":"fe24e12a-2818-4a61-a1af-5d1e8d6aa1c0"
+        },
+        "mbj_activengage_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/ActivEngage MBJ",
+            "hrplus_format_output": "9e06c3a0-14e8-4c9e-8ea3-a07385c18804",
+            "id":"eb8bf243-6473-41b7-8c4a-cdbc8a609f7b",
+            "historical_id": "aa5d6c6f-28e7-4e9a-aafe-c350e175b087"
+        },
+        "mbj_psn_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/PSN MBJ",
+            "hrplus_format_output": "a230f599-5b24-460f-9a77-61b25f2a0740",
+            "id":"a34d0b6c-a59d-4a67-8f9d-6e42d0dfa8c6",
+            "historical_id":"fb281db0-de68-4b21-9912-50d10d6e00ea"
+        },
+        "kgn_iaa_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/IAA KGN",
+            "hrplus_format_output": "4dfd70f7-2e43-49cc-a5a0-b79e07ca2731",
+            "id":"48286d3b-0878-4311-b220-6629d478b593",
+            "historical_id":"3c8a045c-8c6a-4130-8a54-34424fda161c"
+        },
+        "mbj_ontellus_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Ontellus MBJ",
+            "hrplus_format_output": "3c646281-ce1b-4d28-b918-be9b92784b75",
+            "id":"22df7668-1452-4daa-8832-175739af9c97",
+            "historical_id":"bdfb47b6-6fe0-4914-8238-49c001b046d2"
+        },
+        "mbj_moh_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/MOH MBJ",
+            "hrplus_format_output": "1a7a07c0-f31b-49b9-8b9e-1df94321747d",
+            "id":"13061211-8f38-4e34-9a8f-70ca5b933a29",
+            "historical_id":"3ace99bd-5171-4b9c-8db4-3d999188c6da"
+        },
+        "mbj_breville_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Breville MBJ",
+            "hrplus_format_output": "3bf78028-146b-4d75-900b-7802ffae64ce",
+            "id":"61d542af-4d22-4142-adc9-045cbbf4ee73",
+            "historical_id":"6d50e9a5-baa3-4895-ab41-5130c8358b42"
+        },
+        "mbj_car8_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Car 8 MBJ",
+            "hrplus_format_output": "4842ff23-4783-4f04-a16d-b1cbf685384f",
+            "id":"7eeff8c1-4eb2-457c-8b35-d2db8732c6fc",
+            "historical_id":"ce6f8b51-ed6a-4039-9e13-4e8d0e66dc20"
+        },
+        "mbj_jps_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/JPS MBJ",
+            "hrplus_format_output": "a59d3ee9-bf3d-45ca-9dd1-b9b456e2ade5",
+            "id":"ebab559a-e5c3-4128-8194-b0aae02b2db8",
+            "historical_id":"c51eb6d2-4c71-4e04-9cb6-1d3dddefa54a"
+        },
+        "kgn_jps_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/JPS KGN",
+            "hrplus_format_output": "a155e541-d057-4357-9502-8869277bfb6e",
+            "id":"db20df7e-cd92-4d9a-bd94-5237b2dc09bf",
+            "historical_id":"549c034d-94c7-4cb2-8100-06b5d146412d"
+        },
+        "kgn_kroger_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Kroger KGN",
+            "hrplus_format_output": "03249096-21ea-4980-87c4-8f3cbed1755e",
+            "id":"5934b747-7f81-4b1a-b7ac-8e4cde7c76d5",
+            "historical_id":"1558783e-ae38-47f2-ac0f-3df111ad9985"
+        },
+        "kgn_hilton_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Hilton KGN",
+            "hrplus_format_output": "804d61cd-c74c-4408-80e2-0314fb826c93",
+            "id":"d7b913e8-e293-4b5c-8da6-9071dd02c148",
+            "historical_id": "1d277fab-5f43-42c5-82e7-f53af4a7b17d"
+        },
+        "mbj_hilton_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Hilton MBJ",
+            "hrplus_format_output": "67922d8f-e074-4efc-bed0-f0189c9e0bab",
+            "id":"6bb852d7-24e3-4676-b602-044f97741c95",
+            "historical_id": "e3a5a638-925b-4d60-bdb5-52efa46f94f3"
+        },
+        "kgn_tgcs_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/TGCS KGN",
+            "hrplus_format_output": "2c3bb87a-12f0-4672-9943-0c673c52bf79",
+            "id":"4396fbb8-64f1-49ab-9316-e77d2123463b",
+            "historical_id": "fbee9338-5da6-4429-9f1b-39d77dbd0d64"
+        },
+        "kgn_lifetouch_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Lifetouch KGN",
+            "hrplus_format_output": "a7c6db37-22bc-4f9b-a1fd-8a4b7551f8ce",
+            "id":"b5e9cb05-63f6-4ca6-858a-4698e1b8dbb7",
+            "historical_id": "552c2f6a-5223-4e63-b91a-b1c94d9dec08"
+        },
+        "kgn_shutterfly_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Shutterfly KGN",
+            "hrplus_format_output": "c671562d-1aea-40a8-93ba-5f94ba5b4ddb",
+            "id":"c313b05f-6c13-4a8b-9d33-9aa5991999f0",
+            "historical_id": "e43c4056-ad15-4b32-aa6a-3220f4c63350"
+        },
+        "mbj_tds_financial_services_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/TDS Financial Services MBJ",
+            "hrplus_format_output": "85bbb415-a96b-4b85-8d19-4480ac11e7b7",
+            "id":"450efeb6-825e-4c92-9d5c-2ecd925331a6",
+            "historical_id":"0d7b5bc4-cf89-41b3-a429-6e2ec2deee86"
+        },
+        "mbj_tds_repairs_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/TDS Repair MBJ",
+            "hrplus_format_output": "1c7abd2e-1026-4315-8623-2fe003c7d432",
+            "id":"1b89e26e-2e99-4815-b526-bd2ad11e70b3",
+            "historical_id":"60a58257-ae3b-4411-a340-93a06f1dbbd6"
+        },
+        "mbj_tds_sales_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/TDS Sales MBJ",
+            "hrplus_format_output": "417c7bd4-0413-47a5-9ba9-ad9793e7da35",
+            "id":"4e5191b5-7c3e-4e53-bf62-58c8934eae35",
+            "historical_id":"9530ba5b-6926-4b97-8e2c-55115400a0d8"
+        },
+        "mbj_liveperson_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Liveperson KGN",
+            "hrplus_format_output": "4e83b70f-5811-489f-b5ab-6fcc8aed1536",
+            "id":"805e6a4e-ca32-492b-a1f5-36f8ef535c62",
+            "historical_id": "b179676c-c2a8-48a7-90bb-f220287802e5"
+        },
+        "kgn_walmart_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Walmart KGN",
+            "hrplus_format_output": "cd7669d5-fb59-4e5d-9f03-0e84feba805a",
+            "id":"54c6df22-096b-417d-b1d1-b10e6253fa26",
+            "historical_id": "a90283d4-ce08-4fea-a1df-a4f5d1b39143"
+        },
+        "kgn_mia_aesthetics_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/MIA Aesthetics KGN",
+            "hrplus_format_output": "4a6081a7-6247-445e-af78-90065ef9a172",
+            "id":"893c3dec-9ff5-4d56-9852-2a92e282783a",
+            "historical_id": "1830e546-d124-4ad9-8ab5-a4d5c3e4a90d"
+        },
+        "kgn_1800_flowers_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/1800 Flowers KGN",
+            "hrplus_format_output": "8fda5040-9f58-4df0-b72c-c8802451ede9",
+            "id":"46aced71-6861-4263-b340-64850872f7e3",
+            "historical_id": "e536fbb8-3526-4d9d-b819-e107a4769c7d"
+        },
+        "kgn_altice_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Altice KGN",
+            "hrplus_format_output": "0b3c4505-4a9c-472f-9bcf-7e73795db173",
+            "id":"cacb37f2-9cf2-4935-a35d-78ecbcee6621",
+            "historical_id": "d7cfdf71-0210-40c9-93f2-039decfcf7ce"
+        },
+        "mbj_altice_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Altice MBJ",
+            "hrplus_format_output": "ad39d7b3-a9fb-4330-97dd-32acf7bac8da",
+            "id":"ccf8be96-1f80-4ed2-875e-154c4bf12c80",
+            "historical_id": "b7ccce71-74fe-4436-ba29-7bded593414f"
+        },
+        "walmart_itel_dsi_call_data":{
+            "name": "Walmart Call Data",
+            "id": "243d1f29-efbe-47d4-887c-59ce46049c83",
+            "historical_id": "9001c18a-eea3-4297-8a62-8efad65658a0",
+            "schema":"walmart",
+            "target_table": "glb_call_data"   
+        },
+        "tds_agent_status":{
+            "name": "TDS Agent Status",
+            "id": "a72c5ecc-c5b0-4148-b618-f357bf313cb1",
+            "historical_id": "41f04c11-4e6d-4287-9250-6f36291e07a1",
+            "schema":"tds",
+            "target_table": "glb_agent_status"             
+        },
+        "office_depot_external_qa_bsd":{
+            "name": "BSD",
+            "id": "96bf10da-33bd-4fc7-8144-5e7fe7a37487",
+            "historical_id": "f6d1b94e-8f23-4931-b4a5-b117056bd0cc",
+            "schema": "office_depot",
+            "target_table": "geo_customer_service"            
+        },
+        "office_depot_external_qa_chat":{
+            "name": "Chat",
+            "id": "203298ae-b302-4d10-abcd-35c77b9a6f3c",
+            "historical_id": "c234c286-e8c7-4f53-869c-1a47e9578e8c",
+            "schema": "office_depot",
+            "target_table": "geo_customer_service"            
+        },
+        "office_depot_external_qa_billing":{
+            "name": "Chat",
+            "id": "bead920d-8402-4d1c-a41d-66b1a34c7a8c",
+            "historical_id": "ec520b55-fb69-4781-992a-8f524a3632ac",
+            "schema": "office_depot",
+            "target_table": "geo_customer_service"            
+        },
+        "office_depot_external_qa_contract":{
+            "name": "Chat",
+            "id": "07a03e93-8a4f-4860-8e1f-a2ce35697962",
+            "historical_id": "1ba6c607-dbd3-40b0-8a98-89537fabf1b6",
+            "schema": "office_depot",
+            "target_table": "geo_customer_service"            
+        },
+        "office_depot_external_qa_direct":{
+            "name": "Chat",
+            "id": "e89de044-9efc-4908-ba6b-0fb874d7db5a",
+            "historical_id": "e76ceeb5-e619-4690-ac74-14317126484b",
+            "schema": "office_depot",
+            "target_table": "geo_customer_service"            
+        },
+        "office_depot_external_qa_ecom":{
+            "name": "Chat",
+            "id": "1d10ae6c-1674-4256-a08b-cbb5a66bfba0",
+            "historical_id": "2e842aa9-023a-4d5a-a260-f2c186efc4b6",
+            "schema": "office_depot",
+            "target_table": "geo_customer_service"            
+        },
+        "office_depot_team_time":{
+            "name": "Agent Activity by Team and Time",
+            "id": "92481ec4-d873-417c-9814-4a70c5006a3f",
+            "historical_id": "1a48a6d0-dfe2-4784-acbd-fb7e6b336173",
+            "schema": "office_depot",
+            "target_table": "geo_agent_activity_team_time"            
+        },
+        "office_depot_cjp_calls_handled_queue":{
+            "name": "Calls Handled by Queue and Team",
+            "id": "7ad88f4a-83cd-439a-a8d2-8bde8b634eb2",
+            "historical_id": "b7f0deee-fadd-44d0-8d7c-f759505e98c4",
+            "schema": "office_depot",
+            "target_table": "glb_calls_handled_queue_team"            
+        },
+        "office_depot_cjp_agent_summary":{
+            "name": "Calls Agent Summary",
+            "id": "19e9b1d4-f1d7-45dc-83a0-1cb51853f61c",
+            "historical_id": "f31f664b-b211-4d12-8e89-c977a421622c",
+            "schema": "office_depot",
+            "target_table": "geo_journey_agent_summary"            
+        },
+        "liveperson_geo_agent_prod":{
+            "name": "Liveperson GEO Agent Productivity",
+            "id": "6e4a688e-02cf-4417-b92b-19373e8510c0",
+            "historical_id": "c201c0ef-8fb2-47de-b5d9-b5fe005991b4",
+            "schema": "liveperson",
+            "target_table": "geo_agent_productivity"            
+        },
+        "tds_detailed_time_record":{
+            "name": "/TDS/DETAILED TIME RECORD",
+            "id":"6907b56e-dd87-4bee-9a26-4d8ea1b27834",
+            "schema": "tds",
+            "target_table": "mbj_field_services_detailed_time_record"
+        },
+        "handled_compliance_outbound_geo":{
+            "name": "Handled Compliance Outbound",            
+            "id": "91e8b1db-72dd-4a30-98ac-57f1815bd7d1",
+            "historical_id": "f5be5ce3-145d-4601-9c16-c1e9b3dd790e",
+            "call_type_flag": "Outbound",
+            "site":"GEO",            
+            "schema":"walmart",
+            "target_table": "glb_handled_compliance"         
+        },
+        "handled_compliance_inbound_geo":{
+            "name": "Handled Compliance Inbound",            
+            "id": "bfd80131-4cdc-4bfc-acd0-f6f9909e2911",
+            "historical_id": "ac38c83a-6304-4222-8053-55c76dea12a4",
+            "call_type_flag": "Inbound",
+            "site":"GEO",
+            "schema":"walmart",
+            "target_table": "glb_handled_compliance"         
+        },
+        "mia_csat_results":{
+            "name": "MIA Aesthetics/CSAT/CSAT Results",            
+            "id": "c7ff3854-2bb0-455a-bad6-0deccca46ae1",
+            "historical_id": "5d059967-5428-4dfc-9727-0ad039647d8d",
+            "schema":"mia",
+            "target_table": "csat_results"
+        },   
+        "glb_altice_commits_accepts":{
+            "name": "/Altice/Global/Commits-Accepts",            
+            "id": "baddeaab-ab3e-4bd5-a243-436f88cd06c4",
+            "historical_id": "586850c2-edd1-4c10-a42a-d9a6cfd7ef21",
+            "schema":"altice",
+            "target_table": "glb_commits"         
+        },
+        "glb_hrplus_sftp":{
+            "name": "Automated Emails/HRPlus SFTP Exports",            
+            "id": "e001293e-c39a-4dff-b6c5-6dbd2574f826",
+            "historical_id": "aa062488-9fdb-44ca-bdba-079c2cd6aa38",
+            "schema":"hrplus"      
+        },
+        "hrplus_employees":{
+            "name": "Automated Emails/HRPlus SFTP Exports",            
+            "id": "948533a5-2a28-46fb-8f52-3b7396405f13",
+            "historical_id": "aa062488-9fdb-44ca-bdba-079c2cd6aa38",
+            "schema":"hrplus",
+            "target_table": "employees"
+        },
+        "hrplus_timesheet":{
+            "name": "Automated Emails/HRPlus SFTP Exports",            
+            "id": "4106fabf-0692-471a-a287-414054c4b725",
+            "historical_id": "aa062488-9fdb-44ca-bdba-079c2cd6aa38",
+            "schema":"hrplus",
+            "target_table": "time_sheet"     
+        },
+        "hrplus_positions":{
+            "name": "Automated Emails/HRPlus SFTP Exports",            
+            "id": "35dc888a-baa8-4c01-b293-e79bd1e45c47",
+            "historical_id": "aa062488-9fdb-44ca-bdba-079c2cd6aa38",
+            "schema":"hrplus",
+            "target_table": "positions"
+        },
+        "hrplus_empemail":{
+            "name": "Automated Emails/HRPlus SFTP Exports",            
+            "id": "35dc888a-baa8-4c01-b293-e79bd1e45c47",
+            "historical_id": "aa062488-9fdb-44ca-bdba-079c2cd6aa38",
+            "schema":"hrplus",
+            "target_table": "emp_email"
+        },
+        "hrplus_hri_users":{
+            "name": "Automated Emails/HRPlus SFTP Exports",            
+            "id": "35dc888a-baa8-4c01-b293-e79bd1e45c47",
+            "historical_id": "aa062488-9fdb-44ca-bdba-079c2cd6aa38",
+            "schema":"hrplus",
+            "target_table": "hri_users"
+        },
+        "hrplus_reportsto":{
+            "name": "Automated Emails/HRPlus SFTP Exports",            
+            "id": "35dc888a-baa8-4c01-b293-e79bd1e45c47",
+            "historical_id": "aa062488-9fdb-44ca-bdba-079c2cd6aa38",
+            "schema":"hrplus",
+            "target_table": "reports_to"
+        },
+        "od_customer_service":{
+            "name": "Office Depot/GEO/Current/QA Customer Service 2022",
+            "id": "4accb27c-6d47-45f1-8e55-b95ee84c17ea",
+            "historical_id": "25d2d69e-82a3-40fe-93c3-5b98d4e12b89",
+            "schema": "office_depot",
+            "target_table": "geo_customer_service"
+        },
+        "liveperson_geo_chat_data":{
+            "name": "Liveperson GEO Chat Data",
+            "id": "f33bc75b-4d56-458a-a8b6-a2a035b7b2b7",
+            "historical_id": "c04cc4f4-ed59-413f-ac9a-727b3b75dc1d",
+            "schema": "liveperson",
+            "target_table": "geo_chat_data"            
+        },
+        "od_crm_daily_chat":{
+            "name": "Office Depot CRM Chat Data",
+            "id": "061e6b6e-a58a-4b75-a5d7-355d7ebafdd7",
+            "historical_id": "8ada4ade-75c4-4604-96ac-5dba3006ff5f",
+            "schema": "office_depot",
+            "target_table": "geo_crm_daily_chat_phone"            
+        },
+        "od_crm_daily_phone":{
+            "name": "Office Depot CRM Phone Data",
+            "id": "760a9a08-c0a2-47d8-8e79-2985f71e34c8",
+            "historical_id": "8ada4ade-75c4-4604-96ac-5dba3006ff5f",
+            "schema": "office_depot",
+            "target_table": "geo_crm_daily_chat_phone"            
+        },
+        "od_crm_daily_sms":{
+            "name": "Office Depot CRM SMS Data",
+            "id": "363e2d72-5f35-4a24-91c0-8fcbea70b376",
+            "historical_id": "8ada4ade-75c4-4604-96ac-5dba3006ff5f",
+            "schema": "office_depot",
+            "target_table": "geo_crm_daily_chat_phone"            
+        },
+        "od_oracle_bui_assigned":{
+            "name": "Automated Emails/Office Depot/Oracle BUI/Cisco - BUI with Oracle Assigned",
+            "id": "1c69f91b-82a8-458d-b7e6-ecdf53724cf9",
+            "historical_id": "030b4d91-c4c1-4844-9227-3ce754481899",
+            "schema": "office_depot",
+            "target_table": "glb_oracle_bui_errors"            
+        },
+        "od_oracle_bui_dir_phone_no_order_lookup":{
+            "name": "Automated Emails/Office Depot/Oracle BUI/DIR Phone Agents no using Order Lookup",
+            "id": "9a30a7c1-fc01-4ef2-ae0d-9782b9ddd968",
+            "historical_id": "030b4d91-c4c1-4844-9227-3ce754481899",
+            "schema": "office_depot",
+            "target_table": "glb_oracle_bui_errors"           
+        },
+        "od_oracle_bui_incidents_created_invalid_email":{
+            "name": "Automated Emails/Office Depot/Oracle BUI/Incidents created with Cisco - BUI Invalid Email",
+            "id": "a0f18d13-69e5-47cb-a580-0f5a5a953026",
+            "historical_id": "030b4d91-c4c1-4844-9227-3ce754481899",
+            "schema": "office_depot",
+            "target_table": "glb_oracle_bui_errors"           
+        },
+        "od_oracle_bui_odpb_email_no_order_lookup":{
+            "name": "Automated Emails/Office Depot/Oracle BUI/ODPB Email Agents no using Order Lookup",
+            "id": "132244d7-1327-4a18-ae05-4386e5b888a0",
+            "historical_id": "030b4d91-c4c1-4844-9227-3ce754481899",
+            "schema": "office_depot",
+            "target_table": "glb_oracle_bui_errors"           
+        },
+        "od_oracle_bui_not_saving_the_incident":{
+            "name": "Automated Emails/Office Depot/Oracle BUI/ODPB Email Agents no using Order Lookup",
+            "id": "4753743b-e4b6-4fe6-bb2e-5d7ed798a647",
+            "historical_id": "030b4d91-c4c1-4844-9227-3ce754481899",
+            "schema": "office_depot",
+            "target_table": "glb_oracle_bui_incidents"           
+        },
+        "wfm_roster_altice":{
+            "name": "WFM/Rosters/Altice",
+            "id": "3fc51c04-4535-488b-8f63-7951c4c2cbec",
+            "historical_id": "395dee15-adf6-4ba2-9059-fb37cc976b67",
+            "schema": "altice",
+            "target_table": "glb_wfm_roster"   
+        },
+        "wfm_roster_walmart":{
+            "name": "WFM/Rosters/Walmart",
+            "id": "c6b3eb1b-c2d8-4812-b650-bb15ba224d92",
+            "historical_id": "20be0f41-98ff-4ba5-9e1a-5d2ee69fb1d0",
+            "schema": "walmart",
+            "target_table": "glb_wfm_roster"   
+        },
+        "wfm_roster_kroger":{
+            "name": "WFM/Rosters/Kroger",
+            "id": "581ae377-983b-470f-b70f-6aae7db617b5",
+            "historical_id": "20be0f41-98ff-4ba5-9e1a-5d2ee69fb1d0",
+            "schema": "kroger",
+            "target_table": "glb_wfm_roster"   
+        },
+        "jps_calls_management":{
+            "name": "JPS/Global/Custom reports (Talkdesk)/Calls Management",
+            "id": "e8143fb3-897a-410f-ba5a-f450b036a5b0",
+            "historical_id": "395dee15-adf6-4ba2-9059-fb37cc976b67", 
+            "schema": "jps",
+            "target_table": "talkdesk_calls_contacts"    
+        },
+        "jps_touchpoints":{
+            "name": "JPS/Global/Custom reports (Talkdesk)/Touchpoints",
+            "id": "d10c2a96-bc36-4f4d-aab7-975602a951a1",
+            "historical_id": "395dee15-adf6-4ba2-9059-fb37cc976b67", 
+            "schema": "jps",
+            "target_table": "talkdesk_ivr_studio"    
+        },
+        "jps_webchat":{
+            "name": "JPS/Global/Custom reports (Talkdesk)/WebChat",
+            "id": "700cc86d-299e-49c5-9e9a-7a73fbd95bf0",
+            "historical_id": "395dee15-adf6-4ba2-9059-fb37cc976b67", 
+            "schema": "jps",
+            "target_table": "talkdesk_chat_studio"    
+        },
+        "od_quiq_historical_stats":{
+            "name": "/Office Depot/GEO/Current/Quiq/Historical Stats Report",
+            "id": "c7d41f38-7c09-4ae4-96e6-a45c0cfac6b1",
+            "historical_id": "9058f489-e2f5-4c1b-bb1e-8a7ca8d2ef21", 
+            "schema": "office_depot",
+            "target_table": "geo_quiq_sms_login_time"    
+        },
+        "sftp_schedule_upload_via_power_automate":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/SFTP Schedule File Upload",
+            "id": "2bb95ab7-e602-47c0-ab87-b38f41d19bb2"
+        },
+        "sap_anyone_home_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Anyone Home SAP",
+            "hrplus_format_output": "2bb95ab7-e602-47c0-ab87-b38f41d19bb2",
+            "id":"5f1f7f42-4021-4ff6-9f5b-4e35b8cac8c2",
+            "historical_id": "18f6a7cd-6291-4688-b416-c9392746b1c8"
+        },
+        "sap_henry_scheine_one_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Henry Scheine One SAP",
+            "hrplus_format_output": "2bb95ab7-e602-47c0-ab87-b38f41d19bb2",
+            "id":"1ecf7807-30f4-4510-a7d8-43000165b3c1",
+            "historical_id": "deef3810-8fb7-400a-9d90-1c8421f87327"
+        },
+        "sap_walmart_schedules":{
+            "name": "/Automated Emails/HRPlus SFTP Upload Schedules/Walmart SAP",
+            "hrplus_format_output": "2bb95ab7-e602-47c0-ab87-b38f41d19bb2",
+            "id":"c8928290-040c-49fb-90bf-ff2c2ac42d63",
+            "historical_id": "4e6dc3b7-1309-4545-afd4-87711e0fa234"
+        }
+    }
+}

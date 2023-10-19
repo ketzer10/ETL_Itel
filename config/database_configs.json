@@ -1,0 +1,17 @@
+{
+    "azure_sql_server_itel_datasi": {
+        "hostname": "itel-db-server.database.windows.net",
+        "port": 1433,
+        "database_name": "itel_datasi"
+    },
+    "postgresql_gcp": {
+        "hostname": "34.73.99.189",
+        "port": 5432,
+        "database_name": "emerge"
+    },
+    "sql_server_mbjhrm": {
+        "hostname": "192.168.112.201",
+        "port": 1433,
+        "database_name": "UHRDB"
+    }
+}
